@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[16],{496:function(s,e,n){"use strict";n.r(e);var t=n(2);n(0);e.default=function(){return Object(t.jsx)("div",{children:"Collections component works!"})}}}]);
+//# sourceMappingURL=16.ebf59cf3.chunk.js.map

@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[30],{487:function(s,e,n){"use strict";n.r(e);var o=n(2);n(0);e.default=function(){return Object(o.jsx)("div",{children:"Promocods component works!"})}}}]);
+//# sourceMappingURL=30.e0d5b599.chunk.js.map

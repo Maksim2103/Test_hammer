@@ -1,0 +1,2 @@
+(this.webpackJsonpemilus=this.webpackJsonpemilus||[]).push([[25],{490:function(i,n,s){"use strict";s.r(n);var e=s(2);s(0);n.default=function(){return Object(e.jsx)("div",{children:"Mailing component works!"})}}}]);
+//# sourceMappingURL=25.ceab083a.chunk.js.map
